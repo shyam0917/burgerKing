@@ -1,8 +1,8 @@
-
 import React from 'react';
+
 import classes from './Input.css';
 
-const input = (props)=>{
+const input = ( props ) => {
     let inputElement = null;
     const inputClasses = [classes.InputElement];
 
@@ -56,4 +56,4 @@ const input = (props)=>{
 
 };
 
-export default input
+export default input;
